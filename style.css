@@ -1,0 +1,37 @@
+.navigation{
+    background-color: yellow;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-align: center;
+
+}
+.container{
+text-align: center;
+}
+button{
+    background-color: yellow;
+    border-color: blue;
+    height: 4rem;
+    width: 12rem;
+    font-size: large;
+   
+}
+.img1{
+    float: left;
+    display: inline;
+    
+}
+.img2{
+    float: right;
+    display: inline;
+   
+}
+footer{
+  
+   bottom: 0;
+   width: 100%;
+   padding: 0.5rem;
+   background-color: yellow;
+   text-align: center;
+}
